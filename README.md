@@ -1,2 +1,2 @@
-# codecrypt1001100
-Justa repo to store files
+# Codecrypt1001100
+Just a repo to store files & projects
